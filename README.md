@@ -2,7 +2,7 @@
 
 This is only for issues with the API. Don't post an issue about Website issues or the site being down. 
 
-We have a repo for [Website issues](https://github.com/What-The-FAQ/Website) and a status page for checking what is going on with the site.
+We have a repo for [Website issues](https://github.com/What-The-FAQ/Website/issues) and a status page for checking what is going on with the site.
 
 
 
